@@ -32,3 +32,8 @@ Style
 1. Download the files from the Github repo and save them in your Documents.
 2. Download <a href="http://brackets.io/">Brackets</a> or another text editor.
 3. Open the example file <b>index.html</b> in your web browser.
+
+### Resources
+
+<a href="http://www.w3schools.com/">W3C</a>
+<a href="http://learn.shayhowe.com/">Shay Howe</a> tutorials
