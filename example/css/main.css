@@ -22,24 +22,33 @@ header {
     padding: 2em;
 }
 
-main {
-    clear: both;
-    padding: 2em;
-}
-
 article {
     width: 70%;
-    height: 50em;
     background-color: #BEEB9F;
     float: left;
-    margin-right: 3em;
     padding: 2em;
 }
 
 aside {
-    height: 50em;
+    width: 28%;
     background-color: #79BD8F;
     padding: 2em;
+    float: left;
+    margin-left: 2%;
+}
+
+main {
+    padding: 2em;
+    background-color: #FFFF9D;
+    clear: both;
+}
+main:before,
+main:after {
+  content: "";
+  display: table;
+}
+main:after {
+  clear: both;
 }
 
 footer {
