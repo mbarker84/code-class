@@ -35,5 +35,5 @@ Style
 
 ### Resources
 
-<a href="http://www.w3schools.com/">W3C</a>
-<a href="http://learn.shayhowe.com/">Shay Howe</a> tutorials
+* <a href="http://www.w3schools.com/">W3C</a>
+* <a href="http://learn.shayhowe.com/">Shay Howe</a> tutorials
